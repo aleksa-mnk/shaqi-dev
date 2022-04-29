@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Shaqi-dev/shaqi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Vladislav 👨🏼‍💻</h1>
+<div display=flex align=center>
+  <img height="170em" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shaqi-dev&layout=compact"/>
+  <img height="170em" alt="Codewars Stats" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Shaqi-dev&card&colormode=bright_mode"/>
+</div>
 
-Here are some ideas to get you started:
+## Contacts:
+- **E-mail:** shaqimusic@gmail.com
+- **Telegram:** [@shaaqi](https://t.me/shaaaqi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- I'm a Junior Front-end / React developer from Belarus with a passion for learning and innovating.
+- I'm currently taking a popular 6-month Front-end Development course from the RS School community, which is closely associated with EPAM.
+- And of course I am actively looking for my first job!
+
+## My CV:
+- https://github.com/Shaqi-dev/rsschool-cv/blob/main/cv.md
+
+
