@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Vlad 👨🏼‍💻</h1>
+<h1 align="center">Hi 👋 I'm Vlad</h1>
 <div display=flex align=center>
   <img height="170em" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shaqi-dev&layout=compact"/>
   <img height="170em" alt="Codewars Stats" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Shaqi-dev&card&colormode=bright_mode"/>
