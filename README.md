@@ -1,7 +1,8 @@
-# Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"> I'm Vlad
+# <div align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"> I'm Vlad</div>
 
-<div display=flex align="left">
-  <img height="180em" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shaqi-dev&layout=compact"/>
+<div display=flex align="center">
+  </br>
+  <img height="200em" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shaqi-dev&layout=compact"/>
 </div>
 
 ## Contacts:
