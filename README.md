@@ -2,7 +2,7 @@
 
 <div display=flex align="center">
   </br>
-  <img height="200em" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shaqi-dev&layout=compact"/>
+  <img height="170em" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shaqi-dev&layout=compact"/>
 </div>
 
 ## Contacts:
