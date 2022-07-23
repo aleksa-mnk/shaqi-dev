@@ -16,15 +16,18 @@ In September 2021, I started learning front-end development using the React libr
 🤙 I am currently looking for a job, so feel free to contact me.
 
 ## Technologies and tools:
-- HTML, CSS
 - JavaScript (ES6+), TypeScript
+- HTML, CSS
+- CSS Modules, BEM, Sass (SCSS)
 - React, React Hooks,
 - Redux, Redux Toolkit
 - REST API, GraphQL
-- Node.js, Next.js
-- Webpack, ESLint
 - Git, GitHub
-- CSS Modules, BEM, Sass (SCSS)
+- Webpack, ESLint
+- Node.js
+- Algorithms, Data Structures
+- OOP, FP
+- Jest, Testing Library, Unit / E2E testing
 - Bootstrap, Material-UI, Ant Design
 - Adaptive / Responsive / Pixel Perfect layout
 - Figma, Adobe Photoshop
